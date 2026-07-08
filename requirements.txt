@@ -1,0 +1,8 @@
+# HTTP microservice + client
+aiohttp>=3.9
+
+# Headless browser for search/hashtag scraping
+playwright>=1.42
+
+# Profile listing + video metadata
+yt-dlp>=2024.3.10
